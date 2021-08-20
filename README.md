@@ -13,7 +13,7 @@ proof-of-integrity, proof-of-inheritance, and inflation are some of the resoluti
 # Features and Innovations
 
  - **X25X** GPU Algorithm. Leading-edge, in-house built,custom GPU mining algorithm. More complex,less power-hungry.
- - **Deterministic Infinity Nodes** Explicitly designed to overcome the hyperinflation all cryptocurrency projects face. Infinity nodes burn the collateral with unprecedented network security and stability.
+ - **Deterministic InfinityNodes** Explicitly designed to overcome the hyperinflation all cryptocurrency projects face. InfinityNodes burn the collateral with unprecedented network security and stability.
  - **Incorruptible Data Storage** Incorruptible Data Storage. DataSend, DataStore and Blockchain-mail. Proof-of-Integrity. Unlimited private networking of big data storage.
 
 SINOVATE (SIN) combines its brand new **X25X Proof of Work (PoW)** algorithm with LWMA difficulty retargeting algorithm, Reorg fork reject solution merged with P.O.B., establishes a 51% attack protection.
@@ -35,10 +35,10 @@ X25X is  GPU mineable and ensures **ASIC, FPGA and QUANTUM resistance**,  solidi
 |Total Supply  | **Always Less than 800 million SIN infinitely** |
 |Max Block Size  | **16 MB** |
 |SINOVATE legacy address start with  | **S** |
-|Infinity Node Port  | **20970** |
-|<small>BIG</small> Infinity Node Requirement  | **1.000.000 SIN** |
-|<small>MID</small> Infinity Node Requirement  | **500.000 SIN** |
-|<small>MINI</small> Infinity Node Requirement  | **100.000 SIN** |
+|InfinityNode Port  | **20970** |
+|<small>BIG</small>  Node Requirement  | **1.000.000 SIN** |
+|<small>MID</small>   Node Requirement  | **500.000 SIN** |
+|<small>MINI</small>   Node Requirement  | **100.000 SIN** |
 
 
 # Roadmap
