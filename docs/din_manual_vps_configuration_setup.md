@@ -226,7 +226,7 @@ Please wait for 2 confirmations!
 ![](assets/img/misc/din-setup-guide24.png)
   
 <br>
-
+Send 25 SIN to your Owner address.
 Please wait for 2 confirmations!
 
   
