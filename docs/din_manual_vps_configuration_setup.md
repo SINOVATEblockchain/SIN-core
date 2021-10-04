@@ -244,11 +244,11 @@ Remember, using the new keypair requires you to update the infinitynodeprivkey i
  <br>
   
 
-![](https://lh5.googleusercontent.com/kVl_Xf6DoFAMYHBFpWxfWP20Ff3eXVo7gobwSDD6QvQnxSJKtHQOCzal6VZ3-JbGWiVdEz5fOBjJiZ9-ZtBC0ri5bgwGw8zhuJY6Y5a0stv7XJLa6MIc_Jx8uy-31g8rqDbLOQmx)
+![](assets/img/infinity_nodes/updatemeta1.png)
 
 <br>
 
-![](https://lh4.googleusercontent.com/Uj_Ai81h0KrKMP03WiYqepdxBbb67GreIu93ZtsFsOHk82dH4s1A5omtMqZvq6ywbQuUheDAhZCxtt0yTNTJJpc6jB2ehVT5uEsyQaySA6NT0FRT4N56zfsP_JsfmJZ8KHtPVSEv)  
+![](assets/img/infinity_nodes/updatemeta2.png)  
 
 <br>
   
