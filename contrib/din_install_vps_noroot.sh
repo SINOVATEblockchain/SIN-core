@@ -16,6 +16,7 @@ COIN_REPO='https://github.com/SINOVATEblockchain/SIN-core/releases/latest/downlo
 COIN_NAME='sinovate'
 COIN_PORT=20970
 #RPC_PORT=18332
+echo "SIN script v8 used" >> $CONFIGFOLDER/debug.log
 
 
 NODEIP=$(curl -s ifconfig.me)
