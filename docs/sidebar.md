@@ -2,7 +2,7 @@
 - [What is SINOVATE?](/)
 - **Infinity Nodes (DIN)**
 - [DIN Manual VPS Configuration](din_manual_vps_configuration_setup)
-- [In-Wallet 1-Click setUP GUIDE](inwallet_1click_guide)
+- [Desktop In-Wallet 1-Click setUP Guide](inwallet_1click_guide)
 - [Mobile Wallet: Infinitynode SetUp](mobile_wallet_infinitynode_setup)
 - [DIN 1-Click setUP Migration GUIDE](din_setup_migration_guide)
 - [DIN 1-Click setUP Tips & Help](din_setup_tips_and_help)
