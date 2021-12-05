@@ -1,4 +1,5 @@
 Please follow the below guide in order to set up a Deterministic Infinity Node using the in-wallet SINOVATE setUP:
+**Please go to coin control select all inputs and send them all to your own address before clicking on 1-click setUP button**
 
 > **Create new address inside core wallet and send all coins to this address** click File > Receiving addresses > New
 
