@@ -209,13 +209,13 @@ infinitynodeburnfund [YourAddress] [Amount 1M / 500K / 100K] [YourBackupAddress]
 
 <br>
   
-**Send 3 SINs to DIN Node address.**
 
 ![](assets/img/send3sin.png)
 
   <br>
   
-
+**Send 3 SINs to DIN Node address.**
+<br>
 ![](https://lh3.googleusercontent.com/7ntvMjgCOelzwj3UFkSlPJEUyEBkR-hYLgWlIW0uJwZMQ57_iFzL4KGo1lM6cYHGzSe6xYwlnGEp-EMCBsVvd7T5T1b8z4lwv5aepYdYSBjsW_MT7UWWyNQXyoywmLaUm43wTTUm)
   <br>
 
