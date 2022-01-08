@@ -38,47 +38,19 @@ Go to the folder located in the T-Rex miner.
 
   
   
-  
-  
 
 Open a new Text Document
 
-Server addresses by region are given below…
 
-Europe stratum:
-
-```bash
-@echo off
-:start
-t-rex.exe -a x25x -o stratum+tcp://europe.miner.tokyo:3253 -u your_sin_address.your_rig_name -p c=SIN
-goto start
-```
-
-Asia stratum:
+Stratum :
 
 ```bash
 @echo off
 :start
-t-rex.exe -a x25x -o stratum+tcp://asia.miner.tokyo:3253 -u your_sin_address.your_rig_name -p c=SIN
+t-rex.exe -a x25x -o stratum+tcp://sin.speedpool.top:50001 -u your_sin_address.your_worker_name -p c=SIN
 goto start
 ```
 
-USA stratum:
-
-```bash
-@echo off
-:start
-t-rex.exe -a x25x -o stratum+tcp://us.miner.tokyo:3253 -u your_sin_address.your_rig_name -p c=SIN
-goto start
-```
-RU stratum:
-
-```bash
-@echo off
-:start
-t-rex.exe -a x25x -o stratum+tcp://ru.miner.tokyo:3253 -u your_sin_address.your_rig_name -p c=SIN
-goto start
-```
 
 Select Save as and name the start.bat file.
 
