@@ -15,6 +15,7 @@
 - [WebTool](sin_webtool_guide)
 - [X25X Pow GPU Mining](X25X-PoW-GPU-Mining)
 - [Coin control](Coincontrolenable)
+- [Video Guides](video_guides)
 - [F.A.Q.](faq)
 - **Whitepapers**
 - [Whitepaper Light](https://sinovate.io/SINOVATE_litepaper.pdf)
