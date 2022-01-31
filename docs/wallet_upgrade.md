@@ -38,7 +38,7 @@ Download the latest version of Windows Wallet at [https://github.com/SINOVATEblo
 - Close the wallet
 - Back up
 - Delete everything except wallet.dat.
-- Copy the files extracted from the [bootstrap.zip](https://bootstrap.sinovate.io/index.php/s/Y9T2JR3ZiiqDIWl/download) file to the SIN directory.
+- Copy the files extracted from the [bootstrap.zip](https://service.sinovate.io/mainnet/latest/bootstrap.zip) file to the SIN directory.
 - Start the wallet.
  
 <br>
