@@ -118,7 +118,7 @@ rm -rf ~/.sin/{blocks,chainstate,indexes,debug.log,mnpayments.dat,mncache.dat,ba
 
 # 6- download latest bootstrap archive
 ```bash
-curl -J -O https://bootstrap.sinovate.io/index.php/s/Y9T2JR3ZiiqDIWl/download
+wget -O ~/bootstrap.zip https://service.sinovate.io/mainnet/latest/bootstrap.zip
 ```
 
 # 7- unzip the bootstrap archive
