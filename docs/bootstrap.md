@@ -7,7 +7,7 @@ The bootstrap file contains most of the current blockchain data in a downloadabl
 To quickly re-sync your local Windows wallet follow the steps below:
 
 - Download the latest bootstrap archive available:
-https://bootstrap.sinovate.io/index.php/s/Y9T2JR3ZiiqDIWl/download
+https://service.sinovate.io/mainnet/latest/bootstrap.zip
 - If open, close the wallet
 - Go to your local SIN folder located at `%appdata%\SIN\`
 	- (This defaults to `C:\Documents and Settings\YourUserName\Application data\SIN\` on Windows XP and to `C:\Users\YourUserName\Appdata\Roaming\SIN\` on Windows Vista, 7, 8, and 10.)
@@ -39,7 +39,7 @@ sudo apt update && sudo apt install unzip
 rm -rf ~/.sin/{blocks,chainstate,indexes,debug.log,mnpayments.dat,mncache.dat,banlist.dat,peers.dat,netfulfilled.dat,governance.dat,fee_estimates.dat}
 
 # download latest bootstrap archive
-curl -J -O https://bootstrap.sinovate.io/index.php/s/Y9T2JR3ZiiqDIWl/download
+wget -O ~/bootstrap.zip https://service.sinovate.io/mainnet/latest/bootstrap.zip
 
 # unzip the bootstrap archive
 unzip ~/bootstrap.zip
