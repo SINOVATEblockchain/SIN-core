@@ -38,7 +38,7 @@ mv -f ~/bootstrap/* ~/Library/Application\ Support/SIN/
 # remove unnecessary files
 rm -rf ~/{bootstrap,bootstrap.zip}
 ````
-
+- Open the SIN wallet again.
 
 ## Linux CLI Bootstrap
 
