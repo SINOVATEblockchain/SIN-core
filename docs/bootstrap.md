@@ -16,6 +16,27 @@ https://service.sinovate.io/mainnet/latest/bootstrap.zip
 - Move the `blocks`, `chainstate`, indexes folders and infinitynode dat files inside the SIN folder at `%appdata%\SIN\`
 - Open the local wallet again.
 
+## MacOS Bootstrap
+
+If you need to quickly synchronize your MacOS wallet, follow the steps below:
+
+- Close the SIN wallet and run the commands below in Terminal:
+
+```bash
+# Download latest bootstrap archive
+wget -O ~/bootstrap.zip https://service.sinovate.io/mainnet/latest/bootstrap.zip
+
+# remove old files and folders
+rm -rf ~/Library/Application\ Support/SIN/{blocks,chainstate,txindex,infinitynode.dat,infinitynodelockinfo.dat,infinitynodemeta.dat,infinitynodersv.dat}
+
+# Unzip the bootstrap archive
+unzip ~/bootstrap.zip -d ~/Library/Application\ Support/SIN/
+
+# remove unnecessary files
+rm -rf ~/bootstrap.zip
+````
+
+
 ## Linux CLI Bootstrap
 
 :warning: You must log in with the user you created during installation.
