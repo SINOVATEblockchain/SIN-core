@@ -27,13 +27,16 @@ If you need to quickly synchronize your MacOS wallet, follow the steps below:
 wget -O ~/bootstrap.zip https://service.sinovate.io/mainnet/latest/bootstrap.zip
 
 # remove old files and folders
-rm -rf ~/Library/Application\ Support/SIN/{blocks,chainstate,txindex,infinitynode.dat,infinitynodelockinfo.dat,infinitynodemeta.dat,infinitynodersv.dat}
+rm -rf ~/Library/Application\ Support/SIN/{blocks,chainstate,indexes,infinitynode.dat,infinitynodelockinfo.dat,infinitynodemeta.dat,infinitynodersv.dat}
 
 # unzip the bootstrap archive
-unzip ~/bootstrap.zip -d ~/Library/Application\ Support/SIN/
+unzip ~/bootstrap.zip
+
+# move bootstrap files
+mv -f ~/bootstrap/* ~/Library/Application\ Support/SIN/  
 
 # remove unnecessary files
-rm -rf ~/bootstrap.zip
+rm -rf ~/{bootstrap,bootstrap.zip}
 ````
 
 
