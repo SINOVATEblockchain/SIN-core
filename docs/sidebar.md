@@ -1,6 +1,6 @@
 - **Introduction**
 - [What is SINOVATE?](/)
-- **Infinity Nodes (DIN)**
+- **InfinityNodes (DIN)**
 - [Understanding InfinityNodes](understandinginfinitynodes)
 - [DIN Manual VPS Configuration](din_manual_vps_configuration_setup)
 - [Desktop In-Wallet 1-Click setUP Guide](inwallet_1click_guide)
