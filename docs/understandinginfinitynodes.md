@@ -35,10 +35,6 @@ As a reminder, the SIN coins used for starting the “InfinityNodes” must be t
 **4.  What is the Proof-of-Burn (PoB) mechanism in SINOVATE?**
     
 
-  
-
-Answer:
-
 The coin destruction mechanism is, known as Proof-of-Burn (PoB), supports a self-regulating mechanism for the circulation of and demand of coins. This regulation is made by transferring transaction fees to an unusable SIN address. They are then burnt, which is one of the main functions of the PoB mechanism. Furthermore, as the ledger is public and open to everyone, the unusable generic address of the project below makes it possible to trace all transactions and actions linked to the PoB mechanism:
 
   
