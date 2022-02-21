@@ -31,9 +31,9 @@ X25X proof-of-work (PoW) algorithm is GPU mineable and ensures temporary (until 
 |Algorithm | **X25X** |
 |Block Reward  | **PoW-12.5 SIN & Infinity Nodes-3150 SIN** |
 |Block Time  | **2 Minutes** |
-|Block Fee  | **10%** |
+|Dev Fee  | **10%** |
 |Difficulty Retargeting Algo | **LWMA** | 
-|Total Supply  | **Always Less than 800 million SIN infinitely** |
+|Total Supply  | **Proof-of-burn based self-controlled supply** |
 |SINOVATE legacy address start with  | **S** |
 |51% Attack Solution | **LWMA & Reorg 55 (fork rejection)** | 
 |P2P Port  | **20970** |
