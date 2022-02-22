@@ -23,7 +23,7 @@ Your wallet.dat file can be either in the wallets directory or in the SIN home d
 *Shut down the wallet. Backup wallet.dat and infinitynode.conf file.
 
 
-Download the latest version of Windows Wallet at [https://github.com/SINOVATEblockchain/SIN-core/releases](https://github.com/SINOVATEblockchain/SIN-core/releases)
+Download the latest version of Windows Wallet at [https://github.com/SINOVATEblockchain/sinovate/releases](https://github.com/SINOVATEblockchain/sinovate/releases)
  
 
 ![release](assets/img/misc/release.png)
